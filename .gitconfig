@@ -1,0 +1,10 @@
+[user]
+	name = llnnn
+	email = 72482919+llnnn-ux@users.noreply.github.com
+[core]
+	editor = nvim
+	filemode = false
+[push]
+	default = current
+[color]
+	ui = auto
