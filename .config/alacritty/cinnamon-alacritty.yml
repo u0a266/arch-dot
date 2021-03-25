@@ -31,7 +31,7 @@ colors:
      cyan:    '#8FBCBB'
      white:   '#ECEFF4'
 font:
-  size: 8  
+  size: 14  
   normal:
     family: 'HackGenNerd Console'
     style: Regular
