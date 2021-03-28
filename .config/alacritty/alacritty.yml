@@ -2,6 +2,8 @@ shell:
   program: /usr/bin/zsh
   args:
     - --login
+env:
+  TERM: xterm-256color
 # Colors (Nord)
 colors:
    # Default colors
