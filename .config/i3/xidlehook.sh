@@ -17,5 +17,5 @@ xidlehook \
     '' \
   `# Finally, suspend an hour after it locks` \
   --timer 300 \
-    'sleep 1; xset dpms force off; systemctl suspend' \
+    'systemctl suspend' \
     ''
