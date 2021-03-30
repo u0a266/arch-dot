@@ -33,7 +33,9 @@ discord
 dmidecode
 dosfstools
 downgrade
+duf-bin
 efibootmgr
+emacs
 ethtool
 exa
 fakeroot
@@ -49,6 +51,7 @@ feh
 firefox
 firefox-i18n-ja
 firewalld
+fish
 flameshot
 flatpak
 flex
@@ -57,6 +60,7 @@ fzf
 gcc
 gimp
 git
+gitui
 gnome-system-monitor
 go
 gparted
@@ -69,6 +73,7 @@ gvfs-mtp
 htop
 i3-gaps
 i3status
+imwheel
 intel-gpu-tools
 intel-ucode
 intellij-idea-community-edition
@@ -90,13 +95,14 @@ linux
 linux-firmware
 linux-headers
 linux-lts
+lolcat
 longcat
 lxappearance
 m4
 make
 man-db
 man-pages-ja
-medit
+megacmd
 mesa-demos
 minecraft-launcher
 mpv
@@ -125,6 +131,7 @@ pacman-contrib
 pamac-aur
 papirus-icon-theme
 parcellite
+paru-bin
 patch
 pavucontrol
 pbzip2
@@ -142,6 +149,7 @@ pulseaudio-bluetooth
 pwgen
 python-pip
 python-pyqt5
+qt5-styleplugins
 ranger
 redshift
 reflector
@@ -162,7 +170,6 @@ smartmontools
 soundkonverter
 spaceship-prompt
 sshfs
-steam
 syncthing
 tcpdump
 terminus-font
@@ -172,6 +179,7 @@ thunderbird
 thunderbird-i18n-ja
 tlp
 tlp-rdw
+torbrowser-launcher
 traceroute
 trash-cli
 ttf-cica
@@ -181,6 +189,7 @@ unarchiver
 unzip
 vim
 virtualbox
+virtualbox-ext-oracle
 virtualbox-guest-iso
 virtualbox-host-modules-arch
 visual-studio-code-bin
