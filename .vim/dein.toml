@@ -2,19 +2,7 @@
 repo = 'arcticicestudio/nord-vim'
 
 [[plugins]]
-repo = 'vim-airline/vim-airline'
-
-[[plugins]]
-repo = 'vim-airline/vim-airline-themes'
-
-[[plugins]]
-repo = 'junegunn/fzf'
-build_on = '''
-./install -all
-'''
-
-[[plugins]]
-repo = 'junegunn/fzf.vim'
+repo = 'itchyny/lightline.vim'
 
 [[plugins]]
 repo = 'vim-jp/vimdoc-ja'
