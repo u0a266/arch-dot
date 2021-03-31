@@ -118,7 +118,6 @@ nss-mdns
 ntfs-3g
 nvme-cli
 nyancat
-opendoas
 openssh
 os-prober
 p7zip
