@@ -22,8 +22,8 @@ zstyle ':completion:*:(processes|jobs)' menu yes select=2
 zstyle ':completion:*' matcher-list '' 'm:{a-z}={A-Z}' '+m:{A-Z}={a-z}'
 source /usr/share/doc/pkgfile/command-not-found.zsh
 source ~/.aliasrc
-bindkey -v
+bindkey -e
 autoload -U edit-command-line
 zle -N edit-command-line
-bindkey '^xe' edit-command-line
+bindkey '\C-e' edit-command-line
 
