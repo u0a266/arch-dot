@@ -86,7 +86,9 @@ libtool
 libva-intel-driver
 libva-utils
 light
-gdm
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 linux
 linux-firmware
 linux-headers
