@@ -19,7 +19,6 @@ bison
 blueman
 bluez
 bluez-utils
-cava
 cbonsai
 chromium
 cinnamon
@@ -46,7 +45,6 @@ fcitx5-gtk
 fcitx5-mozc
 fcitx5-nord
 fcitx5-qt
-fcitx5-skk
 feh
 firefox
 firefox-i18n-ja
@@ -88,13 +86,12 @@ libtool
 libva-intel-driver
 libva-utils
 light
-lightdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
+gdm
 linux
 linux-firmware
 linux-headers
 linux-lts
+linux-lts-headers
 lolcat
 longcat
 lxappearance
@@ -102,7 +99,6 @@ m4
 make
 man-db
 man-pages-ja
-megacmd
 mesa-demos
 minecraft-launcher
 mpv
@@ -131,7 +127,6 @@ pacman-contrib
 pamac-aur
 papirus-icon-theme
 parcellite
-paru-bin
 patch
 pavucontrol
 pbzip2
@@ -162,8 +157,6 @@ screenfetch
 scrot
 shim-signed
 signal-desktop
-skk-jisyo-neologd
-skktools
 sl
 slack-desktop
 smartmontools
@@ -183,7 +176,7 @@ torbrowser-launcher
 traceroute
 trash-cli
 ttf-cica
-ttf-hackgen-nerd
+#ttf-hackgen-nerd
 typora
 unarchiver
 unzip
