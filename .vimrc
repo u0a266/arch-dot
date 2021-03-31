@@ -9,14 +9,14 @@ if &compatible
 endif
 
 " Required:
-set runtimepath+=/home/alice/.dein/repos/github.com/Shougo/dein.vim
+set runtimepath+=~/.dein/repos/github.com/Shougo/dein.vim
 
 " Required:
-call dein#begin('/home/alice/.dein')
+call dein#begin('~/.dein')
 
 " Let dein manage dein
 " Required:
-call dein#add('/home/alice/.dein/repos/github.com/Shougo/dein.vim')
+call dein#add('~/.dein/repos/github.com/Shougo/dein.vim')
 
 " Add or remove your plugins here like this:
 "call dein#add('Shougo/neosnippet.vim')
