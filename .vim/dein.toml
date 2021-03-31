@@ -37,3 +37,8 @@ repo = 'lambdalisue/suda.vim'
 
 [[plugins]]
 repo = 'kana/vim-altercmd'
+hook_add = '''
+  call altercmd#load()
+  AlterCommand sudawrite SudaWrite
+  AlterCommand sudaread SudaRead
+'''

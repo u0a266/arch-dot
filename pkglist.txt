@@ -34,7 +34,6 @@ dosfstools
 downgrade
 duf-bin
 efibootmgr
-emacs
 ethtool
 exa
 fakeroot
@@ -218,3 +217,4 @@ zsh-autosuggestions
 zsh-completions
 zsh-history-substring-search
 zsh-syntax-highlighting
+alacarte
