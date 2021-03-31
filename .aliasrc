@@ -1,6 +1,6 @@
 alias ls='exa -F --git-ignore'
 alias la='exa -Fa --git-ignore'
-alias ll='exa -Falh' --git-ignore'
+alias ll='exa -Falh --git-ignore'
 alias cp='cpg -g'
 alias mv='mvg -g'
 alias rm='rm -v'
