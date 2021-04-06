@@ -203,3 +203,4 @@ zsh-completions
 zsh-history-substring-search
 zsh-syntax-highlighting
 firefox-extension-arch-search
+youtube-dlc
