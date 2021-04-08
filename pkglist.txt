@@ -27,9 +27,11 @@ dconf-editor
 dialog
 discord
 dmidecode
+dnsmasq
 dosfstools
 downgrade
 duf-bin
+ebtables
 efibootmgr
 ethtool
 exa
@@ -42,6 +44,7 @@ fcitx5-nord
 fcitx5-qt
 feh
 firefox
+firefox-extension-arch-search
 firefox-i18n-ja
 firewalld
 fish
@@ -81,8 +84,6 @@ lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 linux-firmware
 linux-lts
-#linux-lts-alice
-#linux-lts-alice-headers
 linux-lts-headers
 lolcat
 longcat
@@ -129,6 +130,7 @@ pulseaudio-bluetooth
 pwgen
 python-pip
 python-pyqt5
+qemu
 qt5-styleplugins
 ranger
 redshift
@@ -166,6 +168,7 @@ unarchiver
 unzip
 uwufetch
 vim
+virt-manager
 virtualbox
 virtualbox-ext-oracle
 virtualbox-guest-iso
@@ -196,11 +199,10 @@ xorg-xinit
 xorg-xinput
 yay-bin
 youtube-dl
+youtube-dlc
 zip
 zsh
 zsh-autosuggestions
 zsh-completions
 zsh-history-substring-search
 zsh-syntax-highlighting
-firefox-extension-arch-search
-youtube-dlc
