@@ -125,6 +125,7 @@ pigz
 pkgfile
 playerctl
 powertop
+profile-cleaner
 profile-sync-daemon
 pulseaudio-bluetooth
 pwgen
