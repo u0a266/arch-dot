@@ -82,7 +82,9 @@ light
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
+linux
 linux-firmware
+linux-headers
 linux-lts
 linux-lts-headers
 lolcat
@@ -163,7 +165,7 @@ torbrowser-launcher
 traceroute
 trash-cli
 ttf-cica
-#ttf-hackgen-nerd
+ttf-hackgen-nerd
 typora
 unarchiver
 unzip
@@ -173,7 +175,7 @@ virt-manager
 virtualbox
 virtualbox-ext-oracle
 virtualbox-guest-iso
-virtualbox-host-dkms
+virtualbox-host-modules-arch
 visual-studio-code-bin
 viu
 vlc
