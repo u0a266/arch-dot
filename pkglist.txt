@@ -13,7 +13,7 @@ base
 bashtop
 bat
 bind
-blueman
+blueberry
 bluez
 bluez-utils
 cbonsai
@@ -82,9 +82,7 @@ light
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
-linux
 linux-firmware
-linux-headers
 linux-lts
 linux-lts-headers
 lolcat
@@ -175,7 +173,6 @@ virt-manager
 virtualbox
 virtualbox-ext-oracle
 virtualbox-guest-iso
-virtualbox-host-modules-arch
 visual-studio-code-bin
 viu
 vlc
