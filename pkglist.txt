@@ -143,6 +143,7 @@ rsync
 rust
 screenfetch
 scrot
+session-desktop-bin
 shim-signed
 signal-desktop
 sl
@@ -164,6 +165,7 @@ traceroute
 trash-cli
 ttf-cica
 ttf-hackgen-nerd
+tutanota-desktop-bin
 typora
 unarchiver
 unzip
