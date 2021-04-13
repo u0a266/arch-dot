@@ -28,6 +28,7 @@ pacman-contrib
 pkgfile
 raspberrypi-bootloader
 spaceship-prompt
+terminus-font
 unzip
 vi
 vim
