@@ -21,6 +21,7 @@ neofetch
 net-tools
 netctl
 networkmanager
+nodejs
 opendoas
 openssh
 pacman-contrib
