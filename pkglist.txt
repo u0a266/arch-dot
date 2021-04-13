@@ -23,6 +23,7 @@ cinnamon-translations
 cmus
 cpupower
 crda
+cups
 dconf-editor
 dialog
 discord
