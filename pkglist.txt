@@ -79,10 +79,11 @@ keepassxc
 kmscon
 libva-intel-driver
 libva-utils
+libvncserver
 light
 lightdm
 lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
+lightdm-mini-greeter
 linux-firmware
 linux-lts
 linux-lts-headers
@@ -141,7 +142,7 @@ remmina
 ripgrep
 rofi
 rsync
-rust
+rustup
 screenfetch
 scrot
 session-desktop-bin
