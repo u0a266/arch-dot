@@ -32,7 +32,6 @@ dnsmasq
 dosfstools
 downgrade
 duf-bin
-ebtables
 efibootmgr
 ethtool
 exa
@@ -72,6 +71,7 @@ intel-ucode
 intellij-idea-community-edition
 inxi
 iotop
+iptables-nft
 jquake
 jre8
 kdeconnect
