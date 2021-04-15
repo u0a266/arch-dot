@@ -4,6 +4,7 @@ shell:
     - --login
 env:
   TERM: xterm-256color
+  WINIT_X11_SCALE_FACTOR: "1.0"
 # Colors (Nord)
 colors:
    # Default colors
@@ -33,7 +34,7 @@ colors:
      cyan:    '#8FBCBB'
      white:   '#ECEFF4'
 font:
-  size: 8  
+  size: 14
   normal:
     family: 'HackGenNerd Console'
     style: Regular
