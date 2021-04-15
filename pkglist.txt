@@ -84,7 +84,9 @@ light
 lightdm
 lightdm-gtk-greeter
 lightdm-mini-greeter
+linux
 linux-firmware
+linux-headers
 linux-lts
 linux-lts-headers
 lolcat
@@ -177,6 +179,7 @@ virt-manager
 virtualbox
 virtualbox-ext-oracle
 virtualbox-guest-iso
+virtualbox-host-modules-arch
 visual-studio-code-bin
 viu
 vlc
