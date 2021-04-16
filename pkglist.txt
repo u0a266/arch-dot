@@ -159,6 +159,7 @@ sshfs
 syncthing
 tcpdump
 terminus-font
+thefuck
 thunar
 thunderbird
 thunderbird-i18n-ja
