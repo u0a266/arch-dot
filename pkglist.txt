@@ -83,7 +83,6 @@ libvncserver
 light
 lightdm
 lightdm-gtk-greeter
-lightdm-mini-greeter
 linux
 linux-firmware
 linux-headers
@@ -208,6 +207,7 @@ xorg-xinput
 yay-bin
 youtube-dl
 youtube-dlc
+ytfzf
 zip
 zsh
 zsh-autosuggestions
