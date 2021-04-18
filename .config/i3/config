@@ -252,6 +252,7 @@ for_window [class="VirtualBox"] floating enable
 for_window [class="Gpicview"] floating enable
 for_window [class="Gimp"] floating enable
 for_window [class="Xarchiver"] floating enable
+for_window [class="KeePassXC"] move container to workspace 10
 
 ### i3status configuration
 #

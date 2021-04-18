@@ -12,3 +12,4 @@ kdeconnect-indicator &
 cinnamon-screensaver &
 nm-applet &
 imwheel &
+keepassxc &
