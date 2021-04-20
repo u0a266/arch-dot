@@ -42,6 +42,7 @@ fcitx5-gtk
 fcitx5-mozc
 fcitx5-nord
 fcitx5-qt
+fcitx5-table-other
 feh
 firefox
 firefox-extension-arch-search
