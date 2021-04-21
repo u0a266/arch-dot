@@ -191,6 +191,7 @@ vulkan-intel
 w3m
 wezterm
 wget
+wimlib
 wine
 wine-gecko
 wine-mono
