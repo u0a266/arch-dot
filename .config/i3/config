@@ -12,6 +12,7 @@ font pango:monospace 8
 set $mod Mod4
 set $alt Mod1
 set $browser firefox
+set $fm nemo
 
 # Home row direction keys, like vim
 set $left h
@@ -166,8 +167,8 @@ bindsym $mod+r mode "resize"
     # Browser
     bindsym $mod+Shift+w exec $browser
 
-    # Thunar
-    bindsym $mod+Shift+f exec thunar
+    # File manager
+    bindsym $mod+Shift+f exec $fm
 
     # Gnome system monitor
     bindsym $mod+Shift+s exec gnome-system-monitor
@@ -239,20 +240,14 @@ focus_follows_mouse no
 
 ### Default floating windows
 
-for_window [class="Thunar"] floating enable
 for_window [class="Lxappearance"] floating enable
 for_window [class="GParted"] floating enable
-for_window [class="Lightdm-gtk-greeter-settings"] floating enable
 for_window [class="Pavucontrol"] floating enable
 for_window [class="fcitx5-config-qt"] floating enable
-for_window [class="Blueman-manager"] floating enable
 for_window [class="mpv"] floating enable resize set 1000 800
 for_window [class="Gnome-system-monitor"] floating enable
-for_window [class="VirtualBox"] floating enable
 for_window [class="Gpicview"] floating enable
-for_window [class="Gimp"] floating enable
 for_window [class="Xarchiver"] floating enable
-for_window [class="KeePassXC"] move container to workspace 10
 
 ### i3status configuration
 #
