@@ -101,6 +101,7 @@ mesa-demos
 minecraft-launcher
 mpv
 nano
+nemo-fileroller
 neofetch
 neovim
 neovim-qt
@@ -162,7 +163,6 @@ syncthing
 tcpdump
 terminus-font
 thefuck
-thunar
 thunderbird
 thunderbird-i18n-ja
 tlp
