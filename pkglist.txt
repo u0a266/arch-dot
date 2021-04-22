@@ -4,11 +4,8 @@ alacritty
 alsa-utils
 android-tools
 arandr
-archiso
-archlinux-wallpaper
 aria2
 arp-scan
-asp
 baobab
 base
 bashtop
@@ -63,7 +60,6 @@ go
 gparted
 gpicview
 grub
-grub-customizer
 gvfs-mtp
 htop
 i3-gaps
@@ -86,16 +82,16 @@ libvncserver
 light
 lightdm
 lightdm-gtk-greeter
-linux
 linux-firmware
-linux-headers
-linux-lts
-linux-lts-headers
+linux510
+linux510-headers
+linux510-virtualbox-host-modules
 lolcat
 longcat
 lxappearance
 man-db
 man-pages-ja
+manjaro-keyring
 megatools-bin
 mesa-demos
 minecraft-launcher
@@ -120,8 +116,8 @@ openssh
 os-prober
 p7zip
 p7zip-gui
-pacman-contrib
-pamac-aur
+pacman-mirrors
+pamac-gtk
 papirus-icon-theme
 parcellite
 pavucontrol
@@ -142,7 +138,6 @@ qemu
 qt5-styleplugins
 ranger
 redshift
-reflector
 remmina
 ripgrep
 rofi
@@ -182,7 +177,6 @@ virt-manager
 virtualbox
 virtualbox-ext-oracle
 virtualbox-guest-iso
-virtualbox-host-modules-arch
 visual-studio-code-bin
 viu
 vlc
