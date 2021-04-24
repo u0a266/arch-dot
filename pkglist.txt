@@ -27,6 +27,7 @@ dialog
 discord
 dmidecode
 dnsmasq
+docker
 dosfstools
 downgrade
 duf-bin
