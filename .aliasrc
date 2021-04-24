@@ -27,3 +27,7 @@ alias l='ls'
 alias dc='cd'
 alias df='duf'
 alias ln='ln -n'
+function yta() {
+    mpv --ytdl-format=bestaudio ytdl://ytsearch:"$*"
+}
+
