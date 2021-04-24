@@ -15,3 +15,4 @@
 	br = branch
 	hist = log --pretty=format:"%C(green)%h\\ %C(yellow)[%ad]%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
 	res = reset --hard
+	nyan = !nyancat
