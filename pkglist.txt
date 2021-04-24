@@ -154,6 +154,7 @@ slack-desktop
 smartmontools
 soundkonverter
 spaceship-prompt
+squashfuse
 sshfs
 syncthing
 tcpdump
