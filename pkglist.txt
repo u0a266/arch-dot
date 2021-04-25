@@ -136,6 +136,7 @@ pwgen
 python-pip
 python-pyqt5
 qemu
+qemu-arch-extra
 qt5-styleplugins
 ranger
 redshift
