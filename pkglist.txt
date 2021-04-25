@@ -77,6 +77,8 @@ jre8
 kdeconnect
 keepassxc
 kmscon
+libreoffice-still
+libreoffice-still-ja
 libva-intel-driver
 libva-utils
 libvncserver
