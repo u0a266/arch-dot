@@ -1,0 +1,3 @@
+configuration {
+	theme: "~/.themes/rofi/iceberg-dark.rasi";
+}
