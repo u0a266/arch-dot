@@ -5,7 +5,6 @@ source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
 autoload -U promptinit; promptinit
-prompt spaceship
 setopt auto_cd
 setopt correct
 function chpwd() { exa }
@@ -27,4 +26,4 @@ autoload -U edit-command-line
 zle -N edit-command-line
 bindkey '\C-x\C-e' edit-command-line
 eval $(thefuck --alias)
-
+source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
