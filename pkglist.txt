@@ -170,7 +170,7 @@ torbrowser-launcher
 traceroute
 trash-cli
 ttf-cica
-ttf-hackgen-nerd
+#ttf-hackgen-nerd
 tutanota-desktop-bin
 typora
 unarchiver
