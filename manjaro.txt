@@ -1,3 +1,3 @@
 manjaro-keyring
-pacman-mirrors # conflicts with reflector
+pacman-mirrors # conflict with reflector
 pamac-gtk # replace with pamac-aur
