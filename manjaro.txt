@@ -1,3 +1,7 @@
 manjaro-keyring
 pacman-mirrors # conflict with reflector
+python-npyscreen # required by pacman-mirrors
 pamac-gtk # replace with pamac-aur
+linux510
+linux510-headers
+linux510-virtualbox-host-modules

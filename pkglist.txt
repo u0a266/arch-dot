@@ -86,15 +86,14 @@ light
 lightdm
 lightdm-gtk-greeter
 linux-firmware
-linux510
-linux510-headers
-linux510-virtualbox-host-modules
+linux
+linux-headers
+virtualbox-host-modules-arch
 lolcat
 longcat
 lxappearance
 man-db
 man-pages-ja
-manjaro-keyring
 megatools-bin
 mesa-demos
 minecraft-launcher
@@ -119,8 +118,8 @@ openssh
 os-prober
 p7zip
 p7zip-gui
-pacman-mirrors
-pamac-gtk
+pacman-mirrorlist
+pamac-aur
 papirus-icon-theme
 parcellite
 pavucontrol
@@ -140,6 +139,7 @@ python-pyqt5
 qemu
 qemu-arch-extra
 qt5-styleplugins
+reflector
 ranger
 redshift
 remmina
