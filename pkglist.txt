@@ -42,6 +42,7 @@ fcitx5-mozc
 fcitx5-nord
 fcitx5-qt
 fcitx5-table-other
+fd
 feh
 firefox
 firefox-extension-arch-search
@@ -52,6 +53,7 @@ flameshot
 flatpak
 freerdp
 fzf
+fzpac-git
 gimp
 git
 gitkraken
@@ -86,14 +88,15 @@ light
 lightdm
 lightdm-gtk-greeter
 linux-firmware
-linux
-linux-headers
-virtualbox-host-modules-arch
+linux510
+linux510-headers
+linux510-virtualbox-host-modules
 lolcat
 longcat
 lxappearance
 man-db
 man-pages-ja
+manjaro-keyring
 megatools-bin
 mesa-demos
 minecraft-launcher
@@ -118,8 +121,8 @@ openssh
 os-prober
 p7zip
 p7zip-gui
-pacman-mirrorlist
-pamac-aur
+pacman-mirrors
+pamac-gtk
 papirus-icon-theme
 parcellite
 pavucontrol
@@ -139,7 +142,6 @@ python-pyqt5
 qemu
 qemu-arch-extra
 qt5-styleplugins
-reflector
 ranger
 redshift
 remmina
@@ -170,7 +172,7 @@ torbrowser-launcher
 traceroute
 trash-cli
 ttf-cica
-#ttf-hackgen-nerd
+ttf-hackgen-nerd
 tutanota-desktop-bin
 typora
 unarchiver
