@@ -6,6 +6,7 @@ android-tools
 arandr
 aria2
 arp-scan
+asp
 baobab
 base
 bashtop
@@ -87,16 +88,14 @@ libvncserver
 light
 lightdm
 lightdm-gtk-greeter
+linux
 linux-firmware
-linux510
-linux510-headers
-linux510-virtualbox-host-modules
+linux-headers
 lolcat
 longcat
 lxappearance
 man-db
 man-pages-ja
-manjaro-keyring
 megatools-bin
 mesa-demos
 minecraft-launcher
@@ -121,8 +120,8 @@ openssh
 os-prober
 p7zip
 p7zip-gui
-pacman-mirrors
-pamac-gtk
+pacman-contrib
+pamac-aur
 papirus-icon-theme
 parcellite
 pavucontrol
@@ -144,6 +143,7 @@ qemu-arch-extra
 qt5-styleplugins
 ranger
 redshift
+reflector
 remmina
 ripgrep
 rofi
@@ -160,6 +160,7 @@ smartmontools
 soundkonverter
 squashfuse
 sshfs
+subversion
 syncthing
 tcpdump
 terminus-font
