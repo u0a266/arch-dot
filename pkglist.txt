@@ -4,6 +4,7 @@ alacritty
 alsa-utils
 android-tools
 arandr
+archiso
 aria2
 arp-scan
 asp
@@ -57,6 +58,7 @@ fzf
 fzpac-git
 gimp
 git
+github-cli
 gitkraken
 gitui
 gnome-system-monitor
@@ -168,6 +170,7 @@ terminus-font
 thefuck
 thunderbird
 thunderbird-i18n-ja
+tldr
 tlp
 tlp-rdw
 torbrowser-launcher
@@ -177,6 +180,7 @@ ttf-cica
 ttf-hackgen-nerd
 tutanota-desktop-bin
 typora
+ueberzug
 unarchiver
 unzip
 uwufetch
