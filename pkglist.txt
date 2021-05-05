@@ -20,6 +20,7 @@ cbonsai
 chromium
 cinnamon
 cinnamon-translations
+cmake
 cmus
 cpupower
 crda
@@ -110,6 +111,7 @@ neovim
 neovim-qt
 net-tools
 networkmanager
+ninja
 nmap
 nodejs
 noto-fonts
