@@ -20,7 +20,6 @@ cbonsai
 chromium
 cinnamon
 cinnamon-translations
-cmake
 cmus
 cpupower
 crda
@@ -111,7 +110,6 @@ neovim
 neovim-qt
 net-tools
 networkmanager
-ninja
 nmap
 nodejs
 noto-fonts
@@ -134,12 +132,13 @@ pbzip2
 peek
 picom
 pigz
+pipewire-alsa
+pipewire-pulse
 pkgfile
 playerctl
 powertop
 profile-cleaner
 profile-sync-daemon
-pulseaudio-bluetooth
 pwgen
 python-pip
 python-pyqt5
