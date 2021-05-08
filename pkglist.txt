@@ -136,6 +136,7 @@ pipewire-alsa
 pipewire-pulse
 pkgfile
 playerctl
+powerpill
 powertop
 profile-cleaner
 profile-sync-daemon
