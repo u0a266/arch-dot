@@ -138,6 +138,7 @@ pkgfile
 playerctl
 powerpill
 powertop
+procs
 profile-cleaner
 profile-sync-daemon
 pwgen
