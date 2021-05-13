@@ -38,4 +38,5 @@ alias gp='git push'
 function yta() {
     mpv --ytdl-format=bestaudio ytdl://ytsearch:"$*"
 }
+alias sc='systemctl'
 
