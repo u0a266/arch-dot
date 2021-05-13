@@ -172,6 +172,7 @@ syncthing
 tcpdump
 terminus-font
 thefuck
+thermald
 thunderbird
 thunderbird-i18n-ja
 tldr
