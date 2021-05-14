@@ -148,6 +148,7 @@ qemu
 qemu-arch-extra
 qt5-styleplugins
 ranger
+rc-local
 redshift
 reflector
 remmina
