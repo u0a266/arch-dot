@@ -66,6 +66,7 @@ go
 gparted
 gpicview
 grub
+guvcview
 gvfs-mtp
 htop
 i3-gaps
