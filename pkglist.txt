@@ -3,6 +3,7 @@ advcpmv
 alacritty
 alsa-utils
 android-tools
+apparmor
 arandr
 archiso
 aria2
