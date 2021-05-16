@@ -1,5 +1,5 @@
 adapta-gtk-theme
-advcpmv
+#advcpmv
 alacritty
 alsa-utils
 android-tools
