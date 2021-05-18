@@ -1,5 +1,6 @@
 adapta-gtk-theme
 #advcpmv
+adwaita-qt
 alacritty
 alsa-utils
 android-tools
@@ -153,7 +154,7 @@ python-pip
 python-pyqt5
 qemu
 qemu-arch-extra
-qt5-styleplugins
+qt5ct
 ranger
 rc-local
 redshift
