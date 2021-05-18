@@ -261,7 +261,7 @@ input * {
     xkb_layout "jp"
 }
 
-input "2:14:SynPS/2_Synaptics_TouchPad" {
+input "2:7:SynPS/2_Synaptics_TouchPad" {
 	tap enabled
 	natural_scroll enabled
 }
