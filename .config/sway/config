@@ -173,7 +173,7 @@ bindsym $mod+r mode "resize"
     bindsym $alt+slash exec xfce4-terminal --drop-down
 
     # Screen capture
-    bindsym $mod+Print exec "slurp | grim -g - $(xdg-user-dir PICTURES)/$(date +'screenshot_%Y-%m-%d-%H%M%S.png')"
+    bindsym $mod+Print exec "slurp | grim -g - ~/ss/$(date +'screenshot_%Y-%m-%d-%H%M%S.png')"
     bindsym Shift+Print exec peek
 
     # Workspace swicher
@@ -251,7 +251,7 @@ for_window [class="Xarchiver"] floating enable
 ### bumblebee-status configuration
 
 bar {
-	    status_command /usr/bin/bumblebee-status -m nic pasink pasource dunst datetime -p nic.format="{ssid}" datetime.format="%m/%d %H:%M" -t nord-powerline
+	    status_command waybar
 	    tray_output primary
 	    font pango:Cica Regular 21px
 

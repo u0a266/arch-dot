@@ -9,6 +9,7 @@ archiso
 aria2
 arp-scan
 asp
+axel
 baobab
 base
 bashtop
@@ -57,6 +58,7 @@ flatpak
 freerdp
 fzf
 fzpac-git
+gammastep
 gimp
 git
 github-cli
@@ -66,6 +68,7 @@ gnome-system-monitor
 go
 gparted
 gpicview
+grim
 grub
 guvcview
 gvfs-mtp
@@ -98,6 +101,7 @@ linux-headers
 lolcat
 longcat
 lxappearance
+mako
 man-db
 man-pages-ja
 megatools-bin
@@ -134,6 +138,7 @@ pbzip2
 peek
 picom
 pigz
+pipewire
 pipewire-alsa
 pipewire-pulse
 pkgfile
@@ -166,11 +171,15 @@ shim-signed
 signal-desktop
 sl
 slack-desktop
+slurp
 smartmontools
 soundkonverter
 squashfuse
 sshfs
 subversion
+sway
+swayidle
+swaylock
 syncthing
 tcpdump
 terminus-font
@@ -202,6 +211,7 @@ vlc
 volumeicon
 vulkan-intel
 w3m
+waybar
 wezterm
 wget
 wimlib
@@ -221,6 +231,7 @@ xorg-server
 xorg-xeyes
 xorg-xinit
 xorg-xinput
+xorg-xwayland
 yay-bin
 youtube-dl
 youtube-dlc

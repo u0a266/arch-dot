@@ -13,3 +13,4 @@ cinnamon-screensaver &
 nm-applet &
 imwheel &
 keepassxc &
+redshift &
