@@ -24,7 +24,7 @@ set $term alacritty
 # Your preferred application launcher
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
-set $menu "rofi -modi drun,emoji:/usr/bin/rofimoji,run,window -show drun emoji -show-icons"
+set $menu "rofi -modi drun,run,window -show drun -show-icons"
 
 ### Output configuration
 
@@ -184,6 +184,9 @@ bindsym $mod+r mode "resize"
     # Screen brightness controls
     bindsym XF86MonBrightnessUp exec light -A 5
     bindsym XF86MonBrightnessDown exec light -U 5
+
+    # rofimoji
+    bindsym $mod+Ctrl+e exec --no-startup-id rofimoji
 #
 # Power manages:
 #
