@@ -224,6 +224,8 @@ exec swayidle -w \
           timeout 600 'swaymsg "output * dpms off"' resume 'swaymsg "output * dpms on"' \
           before-sleep 'swaylock -f -c 000000; systemctl suspend'
 
+exec swayidle before-sleep 'swaylock -f -c 000000; swaymsg "output * dpms off"' after-resume 'swaymsg "output * dpms on"'
+
 ### Auto start programs
 
 exec --no-startup-id ~/.config/sway/autostart.sh

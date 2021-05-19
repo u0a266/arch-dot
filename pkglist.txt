@@ -212,7 +212,6 @@ vlc
 volumeicon
 vulkan-intel
 w3m
-waybar
 wezterm
 wget
 wimlib
