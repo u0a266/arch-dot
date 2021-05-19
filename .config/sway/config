@@ -248,12 +248,18 @@ for_window [class="Gnome-system-monitor"] floating enable
 for_window [class="Gpicview"] floating enable
 for_window [class="Xarchiver"] floating enable
 
-### bumblebee-status configuration
+### i3status configuration
 
 bar {
-	    swaybar_command waybar
+	    status_command exec ~/.config/i3status/net-speed.sh
 	    tray_output primary
 	    font pango:Cica Regular 21px
+	
+	colors {
+	background #2E3440
+	statusline #88C0D0
+
+	}
 
 }
 
