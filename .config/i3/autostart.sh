@@ -3,7 +3,6 @@ picom -b &
 fcitx5 &
 volumeicon &
 parcellite &
-/usr/lib/kdeconnectd &
 blueberry-tray &
 firewall-applet &
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
