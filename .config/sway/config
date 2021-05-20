@@ -275,3 +275,4 @@ input "2:7:SynPS/2_Synaptics_TouchPad" {
 	tap enabled
 }
 
+exec dbus-update-activation-environment --systemd DBUS_SESSION_BUS_ADDRESS DISPLAY XAUTHORITY
