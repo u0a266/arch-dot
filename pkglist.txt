@@ -1,5 +1,5 @@
 adapta-gtk-theme
-#advcpmv
+advcp
 adwaita-qt
 alacritty
 alsa-utils
@@ -144,7 +144,7 @@ pipewire-alsa
 pipewire-pulse
 pkgfile
 playerctl
-#powerpill
+powerpill
 powertop
 procs
 profile-cleaner
@@ -220,7 +220,10 @@ wine-gecko
 wine-mono
 winetricks
 wireshark-qt
+wl-clipboard
+wofi
 wpa_supplicant
+wtype
 xarchiver
 xclip
 xdg-user-dirs
