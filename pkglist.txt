@@ -87,6 +87,7 @@ jquake
 jre8
 kdeconnect
 keepassxc
+kitty
 kmscon
 libreoffice-still
 libreoffice-still-ja
@@ -226,6 +227,7 @@ wpa_supplicant
 wtype
 xarchiver
 xclip
+xdg-desktop-portal-wlr
 xdg-user-dirs
 xfce4-notifyd
 xfce4-terminal
