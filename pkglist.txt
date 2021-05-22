@@ -205,8 +205,6 @@ unzip
 uwufetch
 vim
 virt-manager
-virtualbox
-virtualbox-ext-oracle
 virtualbox-guest-iso
 visual-studio-code-bin
 vlc
