@@ -1,0 +1,11 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Operation = Remove
+Type = Package
+Target = *
+
+[Action]
+Description = 孤立パッケージを検索
+When = PostTransaction
+Exec = /usr/bin/sh -c "/usr/bin/pacman -Qdtt || /usr/bin/echo ' -> 孤立パッケージは見つかりませんでした'"

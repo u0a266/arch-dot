@@ -1,0 +1,2 @@
+# Suspend when battery is at 20%
+SUBSYSTEM=="power_supply", ATTR{status}=="Discharging", ATTR{capacity}=="[0-20]", RUN+="/usr/bin/systemctl suspend"
