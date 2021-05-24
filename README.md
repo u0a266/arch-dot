@@ -1,3 +1,3 @@
-# dotfiles
+# dotfiles and /etc tree
 
 
