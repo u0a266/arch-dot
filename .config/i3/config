@@ -227,7 +227,7 @@ bindsym $mod+Shift+e mode "$mode_system"
 
 ### Idle configuration
 
-exec --no-startup-id ~/.config/i3/xidlehook.sh
+exec --no-startup-id ~/.config/i3/xss-lock.sh
 
 ### Auto start programs
 
