@@ -159,7 +159,6 @@ qemu-arch-extra
 qt5ct
 ranger
 rc-local
-redshift
 reflector
 remmina
 ripgrep
