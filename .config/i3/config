@@ -194,7 +194,7 @@ bindsym $mod+r mode "resize"
 #
 # Power manages:
 #
-set $Locker cinnamon-screensaver-command -l && sleep 1
+set $Locker i3lock -f -c 000000 && sleep 1
 set $mode_system System (l) lock, (e) logout, (s) suspend, (h) hibernate, (r) reboot, (Shift+s) shutdown
 mode "$mode_system" {
     bindsym l exec --no-startup-id $Locker, mode "default"
