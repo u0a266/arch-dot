@@ -75,6 +75,7 @@ guvcview
 gvfs-mtp
 htop
 i3-gaps
+i3lock
 i3status
 imwheel
 intel-gpu-tools
@@ -229,12 +230,12 @@ xdg-desktop-portal-wlr
 xdg-user-dirs
 xfce4-notifyd
 xfce4-terminal
-xidlehook
 xorg-server
 xorg-xeyes
 xorg-xinit
 xorg-xinput
 xorg-xwayland
+xss-lock
 yay-bin
 youtube-dl
 youtube-dlc
