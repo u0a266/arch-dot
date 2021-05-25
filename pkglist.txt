@@ -1,6 +1,5 @@
 adapta-gtk-theme
 advcp
-adwaita-qt
 alacritty
 alsa-utils
 android-tools
@@ -90,6 +89,7 @@ kdeconnect
 keepassxc
 kitty
 kmscon
+kvantum-qt5
 libreoffice-still
 libreoffice-still-ja
 libva-intel-driver
