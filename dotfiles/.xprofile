@@ -1,3 +1,4 @@
+#!/usr/bin/env sh
 export XIM=fcitx
 export XIM_PROGRAM=fcitx
 export INPUT_METHOD=fcitx
@@ -9,4 +10,7 @@ export MOZ_WEBRENDER=1
 export MOZ_X11_EGL=1
 export QT_QPA_PLATFORMTHEME=qt5ct
 export GLFW_IM_MODULE=ibus
-xset s 180 120
+
+if [ $XDG_SESSION_TYPE = x11 ]; then
+	xset s 180 120
+fi

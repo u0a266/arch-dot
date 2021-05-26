@@ -1,12 +1,8 @@
 #!/usr/bin/env sh
 fcitx5 &
-volumeicon &
-parcellite &
 blueberry-tray &
 firewall-applet &
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-nm-applet &
-imwheel &
 keepassxc &
 mako &
 gammastep &
