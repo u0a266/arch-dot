@@ -29,7 +29,7 @@ set $menu "rofi -modi drun,window,run -show drun -show-icons"
 ### Output configuration
 
 # Set recent wallpaper
-exec --no-startup-id ~/.fehbg
+exec --no-startup-id source ~/.fehbg
 
 ### Key bindings
 #
