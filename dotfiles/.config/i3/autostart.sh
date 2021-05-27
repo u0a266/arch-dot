@@ -12,3 +12,4 @@ nm-applet &
 imwheel &
 keepassxc &
 gammastep -m randr &
+betterlockscreen -w dim &

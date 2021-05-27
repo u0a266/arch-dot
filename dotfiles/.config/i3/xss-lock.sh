@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-xss-lock -n dim-screen.sh -- i3lock -f -c 000000 -n
+xss-lock -n dim-screen.sh -- betterlockscreen -l dim
