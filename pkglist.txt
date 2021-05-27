@@ -21,8 +21,6 @@ bluez
 bluez-utils
 cbonsai
 chromium
-cinnamon
-cinnamon-translations
 cmus
 cpupower
 crda
@@ -113,6 +111,7 @@ megatools-bin
 mesa-demos
 minecraft-launcher
 mpv
+mpv-mpris
 namcap
 nano
 nemo-fileroller
@@ -242,6 +241,7 @@ youtube-dl
 youtube-dlc
 ytfzf
 zip
+zoxide-bin
 zsh
 zsh-autosuggestions
 zsh-completions
