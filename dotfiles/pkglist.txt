@@ -15,7 +15,6 @@ baobab
 base
 bashtop
 bat
-betterlockscreen
 bind
 blueberry
 bluez
@@ -75,7 +74,6 @@ guvcview
 gvfs-mtp
 htop
 i3-gaps
-i3lock-color
 i3status
 imwheel
 intel-gpu-tools
@@ -97,6 +95,7 @@ libva-intel-driver
 libva-utils
 libvncserver
 light
+light-locker
 lightdm
 lightdm-gtk-greeter
 linux

@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-xss-lock -n dim-screen.sh -- betterlockscreen -l dim
+xss-lock -n dim-screen.sh -- light-locker-command -l
