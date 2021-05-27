@@ -27,3 +27,4 @@ zle -N edit-command-line
 bindkey '\C-x\C-e' edit-command-line
 eval $(thefuck --alias)
 source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
+eval "$(zoxide init zsh)"
