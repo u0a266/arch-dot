@@ -50,11 +50,11 @@ fd
 feh
 firefox
 firefox-extension-arch-search
-firefox-i18n-ja
 firewalld
 fish
 flameshot
 flatpak
+fontpreview-ueberzug-git
 freerdp
 fzf
 fzpac-git
@@ -149,6 +149,7 @@ pipewire-alsa
 pipewire-pulse
 pkgfile
 playerctl
+polkit-gnome
 powerpill
 powertop
 procs
