@@ -19,7 +19,7 @@ order += "battery 0"
 order += "tztime local"
 
 wireless wlo1 {
-    format_up = " %essid"
+    format_up = "  "
     format_down = ""
 }
 
