@@ -35,6 +35,7 @@ alias gd='git diff'
 alias gco='git checkout '
 alias gl='git pull'
 alias gp='git push'
+alias yay='paru'
 function yta() {
     mpv --ytdl-format=bestaudio ytdl://ytsearch:"$*"
 }

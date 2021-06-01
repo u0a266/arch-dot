@@ -140,6 +140,7 @@ pacman-contrib
 pamac-aur
 papirus-icon-theme
 parcellite
+paru-bin
 pavucontrol
 pbzip2
 peek
@@ -240,7 +241,6 @@ xorg-xinit
 xorg-xinput
 xorg-xwayland
 xss-lock
-yay-bin
 youtube-dl
 youtube-dlc
 ytfzf
