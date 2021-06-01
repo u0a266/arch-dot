@@ -6,3 +6,4 @@ firewall-applet &
 keepassxc &
 mako &
 gammastep &
+systemctl --user start kdeconnectd.service &
