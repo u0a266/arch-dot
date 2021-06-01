@@ -84,7 +84,6 @@ inxi
 iotop
 iptables-nft
 jquake
-jre8
 kdeconnect
 keepassxc
 kitty
@@ -137,7 +136,6 @@ os-prober
 p7zip
 p7zip-gui
 pacman-contrib
-pamac-aur
 papirus-icon-theme
 parcellite
 paru-bin
@@ -152,7 +150,6 @@ pipewire-pulse
 pkgfile
 playerctl
 polkit-gnome
-powerpill
 powertop
 procs
 profile-cleaner
