@@ -123,7 +123,6 @@ network-manager-applet
 networkmanager
 nmap
 nodejs
-nordic-theme
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji

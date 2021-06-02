@@ -18,11 +18,6 @@ order += "read_file BRIGHTNESS"
 order += "battery 0"
 order += "tztime local"
 
-wireless wlo1 {
-    format_up = "  "
-    format_down = ""
-}
-
 ethernet enp4s0 {
     #if you use %speed, i3status requires root privileges
     format_up = "  %ip (%speed)"
