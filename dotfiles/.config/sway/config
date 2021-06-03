@@ -237,20 +237,19 @@ exec --no-startup-id ~/.config/sway/autostart.sh
 gaps inner 14
 gaps outer 7
 smart_gaps on
-for_window [class="^.*"] border pixel 2
 focus_follows_mouse no
-default_border pixel 1
+default_border pixel 2
 
 ### Default floating windows
 
-for_window [class="Lxappearance"] floating enable
-for_window [class="GParted"] floating enable
-for_window [class="Pavucontrol"] floating enable
-for_window [class="fcitx5-config-qt"] floating enable
-for_window [class="mpv"] floating enable resize set 1000 800
-for_window [class="Gnome-system-monitor"] floating enable
-for_window [class="Gpicview"] floating enable
-for_window [class="Xarchiver"] floating enable
+for_window [app_id="Lxappearance"] floating enable
+for_window [app_id="GParted"] floating enable
+for_window [app_id="Pavucontrol"] floating enable
+for_window [app_id="fcitx5-config-qt"] floating enable
+for_window [app_id="mpv"] floating enable resize set 1000 800
+for_window [app_id="Gnome-system-monitor"] floating enable
+for_window [app_id="Gpicview"] floating enable
+for_window [app_id="Xarchiver"] floating enable
 
 ### i3status configuration
 
@@ -269,10 +268,14 @@ bar {
 
 input * {
     xkb_layout "jp"
+    pointer_accel 0.1
 }
 
 input "2:7:SynPS/2_Synaptics_TouchPad" {
 	tap enabled
 }
 
-exec systemctl --user import-environment
+exec systemctl --user import-environment DISPLAY WAYLAND_DISPLAY SWAYSOCK
+exec hash dbus-update-activation-environment 2>/dev/null && \
+     dbus-update-activation-environment --systemd DISPLAY WAYLAND_DISPLAY SWAYSOCK
+
