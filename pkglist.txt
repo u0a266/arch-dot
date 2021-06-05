@@ -200,6 +200,7 @@ traceroute
 trash-cli
 ttf-cica
 ttf-hackgen-nerd
+ttf-sarasa-gothic
 tutanota-desktop-bin
 typora
 ueberzug
