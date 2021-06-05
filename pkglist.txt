@@ -50,6 +50,7 @@ fd
 feh
 firefox
 firefox-extension-arch-search
+firefox-i18n-ja
 firewalld
 fish
 flameshot
