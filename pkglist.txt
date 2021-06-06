@@ -71,6 +71,7 @@ grim
 grub
 gtk-engine-murrine
 guvcview
+gvfs
 gvfs-mtp
 htop
 i3-gaps
@@ -98,9 +99,9 @@ light
 light-locker
 lightdm
 lightdm-gtk-greeter
+linux
 linux-firmware
-linux-lts
-linux-lts-headers
+linux-headers
 lolcat
 longcat
 lxappearance
@@ -114,6 +115,7 @@ mpv
 mpv-mpris
 namcap
 nano
+nemo
 nemo-fileroller
 neofetch
 neovim
