@@ -1,0 +1,46 @@
+theme = "nord-dark"
+icons = "awesome5"
+
+[[block]]
+block = "cpu"
+interval = 1
+on_click = "alacritty -e htop"
+
+[[block]]
+block = "memory"
+display_type = "memory"
+format_mem = "{mem_total_used_percents}"
+format_swap = "{swap_used_percents}"
+
+[[block]]
+block = "sound"
+on_click = "pavucontrol"
+
+[[block]]
+block = "backlight"
+device = "intel_backlight"
+
+[[block]]
+block = "kdeconnect"
+on_click = "kdeconnect-app"
+
+[[block]]
+block = "net"
+device = "wlo1"
+format = "{ip}"
+interval = 5
+
+[[block]]
+block = "battery"
+driver = "upower"
+format = "{percentage} {time}"
+
+[[block]]
+block = "time"
+interval = 60
+format = "%a %d/%m %R"
+
+[[block]]
+block = "custom"
+command = "uname -r"
+interval = "once"

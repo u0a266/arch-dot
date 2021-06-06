@@ -262,21 +262,13 @@ set $nord8   #88C0D0
 set $nord15  #B48EAD
 
 bar {
-	    status_command exec ~/.config/i3status/net-speed.sh
+	    status_command i3status-rs
 	    tray_output primary
 	    font pango:Cica Regular 21px
 
-        height 31
+        height 30
 
         colors {
-          # background #222828
-          # statusline #616D59
-
-
-          # focused_workspace  #5A8DBD #383134
-          # active_workspace   #5A8DBD #383134
-          # inactive_workspace #A9B8B5 #616D59
-          # urgent_workspace   #E93E38 #383134
 
           background $nord0
 	      statusline $nord8

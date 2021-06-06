@@ -75,7 +75,7 @@ gvfs
 gvfs-mtp
 htop
 i3-gaps
-i3status
+i3status-rust
 imwheel
 intel-gpu-tools
 intel-ucode
@@ -180,6 +180,7 @@ slack-desktop
 slurp
 smartmontools
 soundkonverter
+speedtest-cli
 squashfuse
 sshfs
 subversion
@@ -200,6 +201,7 @@ torbrowser-launcher
 traceroute
 trash-cli
 ttf-cica
+ttf-font-awesome
 ttf-hackgen-nerd
 ttf-sarasa-gothic
 tutanota-desktop-bin

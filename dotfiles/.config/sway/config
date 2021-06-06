@@ -254,7 +254,7 @@ for_window [app_id="Xarchiver"] floating enable
 ### i3status configuration
 
 bar {
-	    status_command while date +'%Y-%m-%d %l:%M:%S %p'; do sleep 1; done
+	    status_command i3status-rs
 	    tray_output primary
 	    font pango:Cica Regular 21px
 	
