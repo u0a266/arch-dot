@@ -1,7 +1,6 @@
 #!/usr/bin/env sh
 picom -b &
 fcitx5 &
-volumeicon &
 parcellite &
 blueberry-tray &
 firewall-applet &
