@@ -5,7 +5,6 @@ alsa-utils
 android-tools
 apparmor
 arandr
-arc-gtk-theme
 archiso
 archlinux-wallpaper
 aria2
@@ -45,7 +44,6 @@ fcitx5-gtk
 fcitx5-mozc
 fcitx5-nord
 fcitx5-qt
-fcitx5-table-other
 fd
 feh
 firefox
