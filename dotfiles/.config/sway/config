@@ -173,7 +173,7 @@ bindsym $mod+r mode "resize"
     bindsym $alt+slash exec xfce4-terminal --drop-down
 
     # Screen capture
-    bindsym $mod+Print exec "slurp | grim -g - ~/ss/$(date +'screenshot_%Y-%m-%d-%H%M%S.png')"
+    bindsym $mod+Print exec grimshot copy area
     bindsym Shift+Print exec peek
 
     # Workspace swicher
