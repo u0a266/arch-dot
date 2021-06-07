@@ -68,7 +68,7 @@ gnome-system-monitor
 go
 gparted
 gpicview
-grim
+grimshot
 grub
 gtk-engine-murrine
 guvcview
@@ -78,6 +78,7 @@ htop
 i3-gaps
 i3status-rust
 imwheel
+inkscape
 intel-gpu-tools
 intel-ucode
 intellij-idea-community-edition
@@ -178,7 +179,6 @@ shim-signed
 signal-desktop
 sl
 slack-desktop
-slurp
 smartmontools
 soundkonverter
 speedtest-cli
