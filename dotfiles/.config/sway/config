@@ -280,3 +280,5 @@ exec hash dbus-update-activation-environment 2>/dev/null && \
      dbus-update-activation-environment --systemd DISPLAY WAYLAND_DISPLAY SWAYSOCK
 
 exec_always import-gsettings
+
+exec systemctl --user start kdeconnectd.service 

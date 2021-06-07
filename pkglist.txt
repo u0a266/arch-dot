@@ -46,6 +46,7 @@ fcitx5-nord
 fcitx5-qt
 fd
 feh
+figlet
 firefox
 firefox-extension-arch-search
 firefox-i18n-ja
