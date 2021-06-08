@@ -11,4 +11,3 @@ imwheel &
 keepassxc &
 gammastep -m randr &
 light-locker &
-/usr/lib/kdeconnectd &
