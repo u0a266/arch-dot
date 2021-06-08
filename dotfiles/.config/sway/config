@@ -281,4 +281,3 @@ exec hash dbus-update-activation-environment 2>/dev/null && \
 
 exec_always import-gsettings
 
-exec systemctl --user start kdeconnectd.service 
