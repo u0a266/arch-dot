@@ -17,5 +17,7 @@ if [ $XDG_SESSION_TYPE = x11 ]; then
 	xset s 180 120
 elif [ $XDG_SESSION_TYPE = wayland ]; then
 	export MOZ_ENABLE_WAYLAND=1
+elif [ $XDG_SESSION_DESKTOP = sway ]; then
+	export XDG_CURRENT_DESKTOP=sway
 fi
 
