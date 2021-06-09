@@ -2,6 +2,7 @@ adapta-gtk-theme
 advcp
 alacritty
 alsa-utils
+amp
 android-tools
 apparmor
 arandr
@@ -31,8 +32,10 @@ discord
 dmidecode
 dnsmasq
 docker
+dog
 dosfstools
 downgrade
+dua-cli
 duf-bin
 efibootmgr
 ethtool
@@ -61,6 +64,7 @@ fzpac-git
 gammastep
 gimp
 git
+git-delta-bin
 github-cli
 gitkraken
 gitui
@@ -168,6 +172,7 @@ rc-local
 reflector
 remmina
 ripgrep
+rm-improved
 rofi
 rofimoji
 rsync
