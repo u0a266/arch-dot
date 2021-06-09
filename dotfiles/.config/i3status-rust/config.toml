@@ -7,6 +7,11 @@ interval = 1
 on_click = "alacritty -e htop"
 
 [[block]]
+block = "custom"
+command = ''' echo "`cat /sys/class/thermal/thermal_zone0/temp | awk '{printf("%.1f\n",$1/1000)}'`℃" '''
+
+
+[[block]]
 block = "memory"
 display_type = "memory"
 format_mem = "{mem_total_used_percents}"
