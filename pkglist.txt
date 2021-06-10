@@ -243,6 +243,7 @@ xfce4-notifyd
 xfce4-terminal
 xorg-server
 xorg-xeyes
+xorg-xhost
 xorg-xinit
 xorg-xinput
 xorg-xwayland
