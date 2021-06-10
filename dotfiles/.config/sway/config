@@ -243,8 +243,8 @@ for_window [app_id="^.*"] border pixel 2
 
 ### Default floating windows
 
-for_window [app_id="lxappearance"] floating enable # doesnt work
-for_window [app_id="gpartedbin"] floating enable
+for_window [class="Lxappearance"] floating enable 
+for_window [class="GParted"] floating enable
 for_window [app_id="pavucontrol"] floating enable
 for_window [app_id="fcitx5-config-qt"] floating enable
 for_window [app_id="mpv"] floating enable, resize set 1000 800
