@@ -1,1 +1,1 @@
-/home/alice/git/arch-dot/.vimrc
+../../.vimrc

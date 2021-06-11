@@ -65,7 +65,24 @@ set cursorline
 set noswapfile
 set nobackup
 set smartindent
-set clipboard+=unnamed
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set autoindent
+set laststatus=2
+set ignorecase
+set smartcase
+set wrapscan
+set noshowmode
 
 nnoremap <C-j> }
 nnoremap <C-k> {
+nnoremap j gj
+nnoremap k gk
+noremap H ^
+noremap L g_
+
+let g:lightline = {
+      \ 'colorscheme': 'nord',
+      \ }
+
