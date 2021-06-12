@@ -124,7 +124,7 @@ nano
 nemo
 nemo-fileroller
 neofetch
-neovim
+neovim-nightly-bin
 neovim-qt
 net-tools
 network-manager-applet
@@ -143,6 +143,7 @@ os-prober
 p7zip
 p7zip-gui
 pacman-contrib
+pamac-aur
 papirus-icon-theme
 parcellite
 paru-bin
@@ -177,6 +178,7 @@ rofi
 rofimoji
 rsync
 rustup
+scrcpy
 screenfetch
 scrot
 session-desktop-bin
