@@ -118,8 +118,8 @@ man-pages-ja
 megatools-bin
 mesa-demos
 minecraft-launcher
-mpv
 mpv-mpris
+mpv-pipewire
 namcap
 nano
 nemo

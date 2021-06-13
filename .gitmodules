@@ -1,0 +1,3 @@
+[submodule "dotfiles/.zsh/fuzzy-sys"]
+	path = dotfiles/.zsh/fuzzy-sys
+	url = https://github.com/NullSense/fuzzy-sys
