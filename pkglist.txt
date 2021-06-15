@@ -144,6 +144,7 @@ os-prober
 p7zip
 p7zip-gui
 pacman-contrib
+pacman-hook-search-orphans-pkgs
 pamac-aur
 papirus-icon-theme
 parcellite
@@ -206,6 +207,7 @@ thunderbird-i18n-ja
 tldr
 tlp
 tlp-rdw
+tmux
 torbrowser-launcher
 traceroute
 trash-cli
