@@ -212,6 +212,7 @@ torbrowser-launcher
 traceroute
 trash-cli
 ttf-cica
+ttf-firge
 ttf-font-awesome
 ttf-hackgen-nerd
 ttf-sarasa-gothic
