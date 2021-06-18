@@ -161,8 +161,6 @@ bindsym $mod+r mode "resize"
 #
 # Personal settings:
 #
-    # Suspend
-    bindsym $alt+l exec systemctl suspend
 
     # Browser
     bindsym $mod+Shift+w exec $browser
@@ -174,7 +172,7 @@ bindsym $mod+r mode "resize"
     bindsym $mod+Shift+s exec gnome-system-monitor
 
     # Xfce4-terminal dropdown mode
-    bindsym $alt+slash exec xfce4-terminal --drop-down
+    bindsym $mod+slash exec xfce4-terminal --drop-down
 
     # Screen capture
     bindsym $mod+Print exec flameshot gui
@@ -183,14 +181,12 @@ bindsym $mod+r mode "resize"
     # Workspace swicher
     set $controlw ~/.config/i3/workspace_controller.py
     bindsym $mod+Tab exec $controlw next go
-    bindsym $alt+Tab exec $controlw prev go
+    bindsym $mod+Shift+Tab exec $controlw prev go
 
     # Screen brightness controls
     bindsym XF86MonBrightnessUp exec light -A 5
     bindsym XF86MonBrightnessDown exec light -U 5
 
-    # rofimoji
-    bindsym $mod+Ctrl+e exec --no-startup-id rofimoji
 #
 # Power manages:
 #
