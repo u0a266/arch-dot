@@ -60,7 +60,6 @@ flatpak
 fontpreview-ueberzug-git
 freerdp
 fzf
-fzpac-git
 gammastep
 gimp
 git
