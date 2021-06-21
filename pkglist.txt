@@ -60,6 +60,7 @@ flatpak
 fontpreview-ueberzug-git
 freerdp
 fzf
+fzpac-git
 gammastep
 gimp
 git
@@ -148,7 +149,7 @@ pamac-aur
 papirus-icon-theme
 parcellite
 paru-bin
-pavucontrol
+pavucontrol-qt
 pbzip2
 peek
 picom
