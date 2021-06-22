@@ -78,6 +78,7 @@ gtk-engine-murrine
 guvcview
 gvfs
 gvfs-mtp
+gvim
 htop
 i3-gaps
 i3status-rust
@@ -120,6 +121,7 @@ mesa-demos
 minecraft-launcher
 mpv-mpris
 mpv-pipewire
+msgpack-c
 namcap
 nano
 nemo
@@ -222,7 +224,6 @@ ueberzug
 unarchiver
 unzip
 uwufetch
-vim
 virt-manager
 virtualbox-guest-iso
 visual-studio-code-bin

@@ -40,4 +40,5 @@ function yta() {
     mpv --ytdl-format=bestaudio ytdl://ytsearch:"$*"
 }
 alias sc='systemctl'
+alias :q='exit'
 

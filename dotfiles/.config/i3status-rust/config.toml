@@ -19,7 +19,7 @@ format_swap = "{swap_used_percents}"
 
 [[block]]
 block = "sound"
-on_click = "pavucontrol"
+on_click = "pavucontrol-qt"
 
 [[block]]
 block = "backlight"
