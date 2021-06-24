@@ -29,7 +29,7 @@ set $menu "wofi --show drun --allow-images"
 ### Output configuration
 
 # Set recent wallpaper
-output * bg ~/Pictures/Untitled-1.jpg fill
+output * bg /usr/share/backgrounds/archlinux/lone.jpg fill
 ### Key bindings
 #
 # Basics:
@@ -183,6 +183,8 @@ bindsym $mod+r mode "resize"
     bindsym XF86MonBrightnessUp exec light -A 5
     bindsym XF86MonBrightnessDown exec light -U 5
 
+    bindsym $mod+period exec rofimoji
+
 #
 # Power manages:
 #
@@ -255,12 +257,6 @@ bar {
 	    tray_output primary
 	    font pango:Cica Regular 21px
 	
-	colors {
-	background #2E3440
-	statusline #88C0D0
-
-	}
-
 }
 
 input * {
@@ -276,5 +272,5 @@ exec systemctl --user import-environment DISPLAY WAYLAND_DISPLAY SWAYSOCK
 exec hash dbus-update-activation-environment 2>/dev/null && \
      dbus-update-activation-environment --systemd DISPLAY WAYLAND_DISPLAY SWAYSOCK
 
-exec_always import-gsettings
+exec_always ~/bin/import-gsettings
 
