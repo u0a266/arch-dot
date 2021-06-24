@@ -249,6 +249,7 @@ xdg-user-dirs
 xfce4-notifyd
 xfce4-terminal
 xorg-server
+xorg-xev
 xorg-xeyes
 xorg-xhost
 xorg-xinit

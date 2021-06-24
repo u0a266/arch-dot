@@ -183,7 +183,7 @@ bindsym $mod+r mode "resize"
     bindsym XF86MonBrightnessUp exec light -A 5
     bindsym XF86MonBrightnessDown exec light -U 5
 
-    bindsym $mod+period exec rofimoji
+    bindsym $mod+period exec rofimoji --selector wofi
 
 #
 # Power manages:
