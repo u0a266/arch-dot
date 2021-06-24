@@ -34,3 +34,5 @@
     syntax-theme = Nord
 
 
+[include]
+	path = /home/alice/.gitalias
