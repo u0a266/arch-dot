@@ -35,4 +35,4 @@
 
 
 [include]
-	path = /home/alice/.gitalias
+	path = $HOME/.gitalias

@@ -24,7 +24,7 @@ set $term kitty
 # Your preferred application launcher
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
-set $menu "rofi -modi drun,window,run -show drun -show-icons"
+set $menu "rofi -modi drun,window,run -show drun -show-icons -columns 2"
 
 ### Output configuration
 
@@ -187,7 +187,7 @@ bindsym $mod+r mode "resize"
     bindsym XF86MonBrightnessUp exec light -A 5
     bindsym XF86MonBrightnessDown exec light -U 5
 
-    bindsym $mod+period exec rofimoji
+    bindsym $mod+period exec rofimoji --selector-args="-columns 2"
 
 #
 # Power manages:
