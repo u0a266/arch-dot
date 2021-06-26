@@ -62,6 +62,7 @@ freerdp
 fzf
 fzpac-git
 gammastep
+ghq-bin
 gimp
 git
 git-delta-bin
