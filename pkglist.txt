@@ -2,7 +2,6 @@ adapta-gtk-theme
 advcp
 alacritty
 alsa-utils
-amp
 android-tools
 apparmor
 arandr
@@ -74,7 +73,6 @@ go
 gparted
 gpicview
 grimshot
-grub
 gtk-engine-murrine
 guvcview
 gvfs
@@ -164,6 +162,7 @@ pkgfile
 playerctl
 polkit-gnome
 powertop
+preloader-signed
 procs
 profile-cleaner
 profile-sync-daemon
@@ -187,7 +186,6 @@ scrcpy
 screenfetch
 scrot
 session-desktop-bin
-shim-signed
 signal-desktop
 sl
 slack-desktop
@@ -201,6 +199,7 @@ sway
 swayidle
 swaylock
 syncthing
+systemd-boot-pacman-hook
 tcpdump
 terminus-font
 thefuck
