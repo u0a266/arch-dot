@@ -1,0 +1,11 @@
+[Unit]
+Description=Portal service (wlroots implementation)
+PartOf=graphical-session.target
+After=graphical-session.target
+ConditionEnvironment=WAYLAND_DISPLAY
+
+[Service]
+Type=dbus
+BusName=org.freedesktop.impl.portal.desktop.wlr
+ExecStart=/usr/lib/xdg-desktop-portal-wlr --output=eDP-1
+Restart=on-failure
