@@ -21,12 +21,12 @@ bluez
 bluez-utils
 cbonsai
 chromium
+cinnamon-translations
 cmus
 cpupower
 crda
 cups
 dconf-editor
-dialog
 discord
 dmidecode
 dnsmasq
@@ -145,7 +145,6 @@ os-prober
 p7zip
 p7zip-gui
 pacman-contrib
-pacman-hook-search-orphans-pkgs
 pamac-aur
 papirus-icon-theme
 parcellite
@@ -185,6 +184,7 @@ rustup
 scrcpy
 screenfetch
 scrot
+search-orphans-pkgs-pacman-hook
 session-desktop-bin
 signal-desktop
 sl
@@ -225,7 +225,6 @@ unarchiver
 unzip
 uwufetch
 virt-manager
-virtualbox-guest-iso
 visual-studio-code-bin
 vlc
 vulkan-intel

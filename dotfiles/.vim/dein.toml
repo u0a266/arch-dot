@@ -42,3 +42,6 @@ hook_add = '''
   AlterCommand sudawrite SudaWrite
   AlterCommand sudaread SudaRead
 '''
+
+[[plugins]]
+repo = 'lambdalisue/fern.vim'
