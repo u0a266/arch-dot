@@ -42,3 +42,6 @@ function yta() {
 alias sc='systemctl'
 alias :q='exit'
 alias gi='git'
+alias g='git'
+alias fsys='fuzzy-sys'
+alias imgcat='kitty icat $1'

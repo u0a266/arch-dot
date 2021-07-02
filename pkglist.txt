@@ -79,6 +79,7 @@ gvfs
 gvfs-mtp
 gvim
 htop
+hugo
 i3-gaps
 i3status-rust
 imwheel
