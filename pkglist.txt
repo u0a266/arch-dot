@@ -127,7 +127,7 @@ nano
 nemo
 nemo-fileroller
 neofetch
-neovim-nightly-bin
+neovim
 neovim-qt
 net-tools
 network-manager-applet
