@@ -136,7 +136,6 @@ nmap
 nodejs
 noto-fonts
 noto-fonts-cjk
-noto-fonts-emoji
 nss-mdns
 ntfs-3g
 nvme-cli
@@ -219,6 +218,7 @@ ttf-firge
 ttf-font-awesome
 ttf-hackgen-nerd
 ttf-sarasa-gothic
+ttf-twemoji-color
 tutanota-desktop-bin
 typora
 ueberzug
