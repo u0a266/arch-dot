@@ -6,11 +6,11 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 # Created by newuser for 5.8
-fpath=(/usr/share/zsh/site-functions/ $fpath)
+[ -d /usr/share/zsh/site-functions ] && fpath=(/usr/share/zsh/site-functions/ $fpath)
 autoload -U compinit; compinit
-source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
+[ -f /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh ] && source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+[ -f /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh ] && source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+[ -f /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh ] && source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
 autoload -U promptinit; promptinit
 setopt auto_cd
 setopt correct
@@ -26,16 +26,17 @@ setopt share_history
 zstyle ':completion:*:default' menu select=2
 zstyle ':completion:*:(processes|jobs)' menu yes select=2
 zstyle ':completion:*' matcher-list '' 'm:{a-z}={A-Z}' '+m:{A-Z}={a-z}'
-source /usr/share/doc/pkgfile/command-not-found.zsh
-source ~/.aliasrc
+[ -f /usr/share/doc/pkgfile/command-not-found.zsh ] && source /usr/share/doc/pkgfile/command-not-found.zsh
+[ -f ~/.aliasrc ] && source ~/.aliasrc
 bindkey -e
 autoload -U edit-command-line
 zle -N edit-command-line
 bindkey '\C-x\C-e' edit-command-line
 eval $(thefuck --alias)
-source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
+[ -f /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme ] && source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 eval "$(zoxide init zsh)"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-source ~/.zsh/fuzzy-sys/fuzzy-sys.plugin.zsh
+[ -f ~/.zsh/fuzzy-sys/fuzzy-sys.plugin.zsh ] && source ~/.zsh/fuzzy-sys/fuzzy-sys.plugin.zsh
+[ -f /usr/share/fzf/key-bindings.zsh ] && source /usr/share/fzf/key-bindings.zsh
