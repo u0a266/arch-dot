@@ -1,4 +1,3 @@
-adapta-gtk-theme
 advcp
 alacritty
 alsa-utils
@@ -135,6 +134,7 @@ network-manager-applet
 networkmanager
 nmap
 nodejs
+nordic-darker-theme
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
@@ -149,6 +149,8 @@ p7zip-gui
 pacman-contrib
 pamac-aur
 papirus-icon-theme
+papirus-linux-universe
+papirus-nord
 parcellite
 paru-bin
 pavucontrol-qt
