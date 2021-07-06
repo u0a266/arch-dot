@@ -112,6 +112,7 @@ linux-firmware
 linux-headers
 lolcat
 longcat
+lscolors-git
 lxappearance
 mako
 man-db
@@ -166,6 +167,7 @@ preloader-signed
 procs
 profile-cleaner
 profile-sync-daemon
+psensor
 pwgen
 python-pip
 python-pyqt5

@@ -40,3 +40,5 @@ eval "$(zoxide init zsh)"
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 [ -f ~/.zsh/fuzzy-sys/fuzzy-sys.plugin.zsh ] && source ~/.zsh/fuzzy-sys/fuzzy-sys.plugin.zsh
 [ -f /usr/share/fzf/key-bindings.zsh ] && source /usr/share/fzf/key-bindings.zsh
+[ -f /usr/share/LS_COLORS/dircolors.sh ] && source /usr/share/LS_COLORS/dircolors.sh
+zstyle ':completion:*' list-colors "${LS_COLORS}"
