@@ -41,4 +41,6 @@ eval "$(zoxide init zsh)"
 [ -f ~/.zsh/fuzzy-sys/fuzzy-sys.plugin.zsh ] && source ~/.zsh/fuzzy-sys/fuzzy-sys.plugin.zsh
 [ -f /usr/share/fzf/key-bindings.zsh ] && source /usr/share/fzf/key-bindings.zsh
 [ -f /usr/share/LS_COLORS/dircolors.sh ] && source /usr/share/LS_COLORS/dircolors.sh
+export LS_COLORS="${LS_COLORS}di=38;5;1:"
 zstyle ':completion:*' list-colors "${LS_COLORS}"
+[ -f ~/.zsh/fzf.config ] && source ~/.zsh/fzf.config

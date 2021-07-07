@@ -45,3 +45,11 @@ hook_add = '''
 
 [[plugins]]
 repo = 'lambdalisue/fern.vim'
+
+[[plugins]]
+repo = 'ctrlpvim/ctrlp.vim'
+hook_add = '''
+  let g:ctrlp_map = '<c-p>'
+  let g:ctrlp_cmd = 'CtrlP'
+'''
+

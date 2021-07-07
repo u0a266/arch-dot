@@ -1,4 +1,3 @@
-advcp
 alacritty
 alsa-utils
 android-tools
@@ -106,9 +105,9 @@ light
 light-locker
 lightdm
 lightdm-gtk-greeter
-linux
 linux-firmware
-linux-headers
+linux-lts
+linux-lts-headers
 lolcat
 longcat
 lscolors-git
