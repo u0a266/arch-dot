@@ -89,6 +89,7 @@ inxi
 iotop
 ipset
 iptables-nft
+jad
 jdk8-openjdk
 jquake
 kdeconnect
