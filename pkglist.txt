@@ -41,9 +41,9 @@ fbgrab
 fcitx5
 fcitx5-configtool
 fcitx5-gtk
-fcitx5-mozc
 fcitx5-nord
 fcitx5-qt
+fcitx5-skk
 fd
 feh
 figlet
@@ -192,6 +192,8 @@ scrot
 search-orphans-pkgs-pacman-hook
 session-desktop-bin
 signal-desktop
+skk-emoji-jisyo
+skk-jisyo-neologd
 sl
 slack-desktop
 smartmontools
