@@ -183,7 +183,7 @@ bindsym $mod+r mode "resize"
     bindsym XF86MonBrightnessUp exec light -A 5
     bindsym XF86MonBrightnessDown exec light -U 5
 
-    bindsym $mod+period exec rofimoji --selector wofi --selector-args="--columns 2"
+    bindsym $mod+period exec rofimoji --selector wofi 
 
 #
 # Power manages:
@@ -256,11 +256,9 @@ bar {
 	    status_command i3status-rs
 	    tray_output primary
 	    font pango:Cica Regular 21px
-	
 }
 
 input * {
-    xkb_layout "jp"
     pointer_accel 0.1
 }
 
