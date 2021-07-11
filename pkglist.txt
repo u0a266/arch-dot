@@ -106,9 +106,9 @@ light
 light-locker
 lightdm
 lightdm-gtk-greeter
+linux-alice
+linux-alice-headers
 linux-firmware
-linux-lts
-linux-lts-headers
 lolcat
 longcat
 lscolors-git
