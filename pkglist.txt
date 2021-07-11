@@ -217,6 +217,7 @@ tldr
 tlp
 tlp-rdw
 tmux
+tmux-nord-theme
 torbrowser-launcher
 traceroute
 trash-cli
