@@ -266,9 +266,7 @@ input "2:7:SynPS/2_Synaptics_TouchPad" {
 	tap enabled
 }
 
-exec systemctl --user import-environment DISPLAY WAYLAND_DISPLAY SWAYSOCK
-exec hash dbus-update-activation-environment 2>/dev/null && \
-     dbus-update-activation-environment --systemd DISPLAY WAYLAND_DISPLAY SWAYSOCK
-
 exec_always ~/bin/import-gsettings
+
+include /etc/sway/config.d/*
 
