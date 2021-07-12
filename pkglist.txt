@@ -62,7 +62,7 @@ gammastep
 ghq-bin
 gimp
 git
-git-delta-bin
+git-delta
 github-cli
 gitkraken
 gitui

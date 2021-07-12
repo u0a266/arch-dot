@@ -11,3 +11,4 @@ imwheel &
 gtk-launch org.keepassxc.KeePassXC.desktop
 gammastep -m randr &
 light-locker &
+playerctld daemon &
