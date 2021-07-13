@@ -53,3 +53,5 @@ hook_add = '''
   let g:ctrlp_cmd = 'CtrlP'
 '''
 
+[[plugins]]
+repo = 'tyru/eskk.vim'
