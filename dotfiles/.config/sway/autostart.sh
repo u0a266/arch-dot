@@ -6,4 +6,3 @@ firewall-applet &
 gtk-launch org.keepassxc.KeePassXC.desktop
 mako &
 gammastep &
-playerctld daemon &

@@ -9,7 +9,6 @@ aria2
 arp-scan
 asp
 axel
-baobab
 base
 bashtop
 bat
@@ -19,7 +18,6 @@ bluez
 bluez-utils
 cbonsai
 chromium
-cinnamon-translations
 cmus
 cpupower
 crda
@@ -49,7 +47,6 @@ feh
 figlet
 firefox
 firefox-extension-arch-search
-firefox-i18n-ja
 firewalld
 fish
 flameshot
@@ -97,8 +94,8 @@ keepassxc
 kitty
 kmscon
 kvantum-qt5
+kvantum-theme-nordic-git
 libreoffice-still
-libreoffice-still-ja
 libva-intel-driver
 libva-utils
 libvncserver
@@ -212,7 +209,6 @@ terminus-font
 thefuck
 thermald
 thunderbird
-thunderbird-i18n-ja
 tldr
 tlp
 tlp-rdw
