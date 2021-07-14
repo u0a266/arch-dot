@@ -44,3 +44,4 @@ eval "$(zoxide init zsh)"
 export LS_COLORS="${LS_COLORS}di=38;5;1:"
 zstyle ':completion:*' list-colors "${LS_COLORS}"
 [ -f ~/.zsh/fzf.config ] && source ~/.zsh/fzf.config
+export LANG=ja_JP.UTF-8
