@@ -101,7 +101,6 @@ libva-utils
 libvncserver
 light
 light-locker
-lightdm
 lightdm-gtk-greeter
 linux-alice
 linux-alice-headers
@@ -262,6 +261,8 @@ xss-lock
 youtube-dl
 youtube-dlc
 ytfzf
+zathura
+zathura-pdf-mupdf
 zip
 zoxide-bin
 zsh
