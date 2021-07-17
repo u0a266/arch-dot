@@ -61,7 +61,6 @@ gimp
 git
 git-delta
 github-cli
-gitkraken
 gitui
 gnome-system-monitor
 go
@@ -228,7 +227,6 @@ unarchiver
 unzip
 uwufetch
 virt-manager
-visual-studio-code-bin
 vlc
 vulkan-intel
 w3m
