@@ -142,6 +142,7 @@ os-prober
 p7zip
 p7zip-gui
 pacman-contrib
+pacutils
 pamac-aur
 papirus-icon-theme
 papirus-linux-universe
