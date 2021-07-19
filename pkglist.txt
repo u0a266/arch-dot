@@ -32,6 +32,7 @@ dosfstools
 downgrade
 dua-cli
 duf-bin
+edk2-ovmf
 efibootmgr
 ethtool
 exa
@@ -226,7 +227,9 @@ typora
 ueberzug
 unarchiver
 unzip
+usbguard
 uwufetch
+veracrypt
 virt-manager
 vlc
 vulkan-intel
